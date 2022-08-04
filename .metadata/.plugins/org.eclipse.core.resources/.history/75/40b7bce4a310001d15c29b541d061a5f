@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<div class="container">
+<h1>My Form</h1>
+<form action="RegistrationServ" method="post">
+<table>
+<tr>
+<td>Enter Name</td>
+<td><input type="text" name="user_name" placeholder="Enter here"/></td>
+</tr>
+
+<tr>
+<td>Enter Password</td>
+<td><input type="password" name="user_password" placeholder="Enter here"/></td>
+</tr>
+
+<tr>
+<td>Select Your Course</td>
+<td>
+<select name="user_gender">
+<option value="male">Male</option>
+<option value="female">Female</option>
+<option value="others">Others</option>
+<option value="nd">Not Disclose</option>
+</select>
+</td>
+</tr>
+
+<tr>
+<td><input type="checkbox" name="condition" value="checked" /></td>
+<td>Terms and Conditions</td>
+</tr>
+</table>
+</form>
+</div>
+
+</body>
+</html>

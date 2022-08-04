@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:Test" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:SecondProject" serverId="Tomcat v10.0 Server A"/>
+  <module moduleId="org.eclipse.jst.jee.server:First" serverId="Tomcat v10.0 For First"/>
+  <module moduleId="org.eclipse.jst.jee.server:CookieProject" serverId="Tomcat v10.0 Server A"/>
+  <module moduleId="org.eclipse.jst.jee.server:MySecond" serverId="Tomcat v10.0 Server A"/>
+  <module moduleId="org.eclipse.jst.jee.server:MyFirst" serverId="Tomcat v10.0 Server A"/>
+  <module moduleId="org.eclipse.jst.jee.server:RegistrationModule" serverId="Tomcat v10.0 Server A"/>
+</modules>
